@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "f3me/AA4f5fEgOnV0JCTU3DfPrG0/QP9Ksi2vp/FTck=",
+  "Hash": "D75LjMCsnbywGIxiljj1f8+xm9w5u3lmi2dZ28bjWtQ=",
   "Source": "ServicosTecnicos",
   "BasePath": "_content/ServicosTecnicos",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Windows10VM\\Documents\\TrabalhoLP\\ServicosTecnicos\\ServicosTecnicos\\wwwroot\\Images\\9627520.jpg",
+      "SourceId": "ServicosTecnicos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Windows10VM\\Documents\\TrabalhoLP\\ServicosTecnicos\\ServicosTecnicos\\wwwroot\\",
+      "BasePath": "_content/ServicosTecnicos",
+      "RelativePath": "Images/9627520.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\9627520.jpg"
     },
     {
       "Identity": "C:\\Users\\Windows10VM\\Documents\\TrabalhoLP\\ServicosTecnicos\\ServicosTecnicos\\wwwroot\\js\\site.js",
