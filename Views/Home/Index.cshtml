@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+
+    <h1 class="display-4">Bem vindo ao serviço técnico!</h1>
+    <h2 class="display-5" asp-area="" asp-controller="Home"
+        asp-action="Index">
+        Comece abrindo um chamado...
+    </h2>
+    <a href="@Url.Action("Create", "Chamados")" class="btn btn-primary">
+        Abrir chamado
+    </a>
+</div>
+
